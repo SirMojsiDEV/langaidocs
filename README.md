@@ -98,6 +98,15 @@ LangAI’s modular architecture includes:
 
 ---
 
+## 🔥 Abstracted API
+
+The LangAI Client abstracts all interactions to our LangAI API:
+- helps developers focus on building agents rather than worrying about Web3 infrastructure.
+- API handles calls from the Client to ensure data correctness.
+
+
+---
+
 ## ⚙️ Development Experience
 
 LangAI offers an intuitive environment that:
