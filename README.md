@@ -41,8 +41,7 @@ Bridge the gap between AI and blockchain to create intelligent, self-sustaining 
 
 ## ✨ Key Features
 
-LangAI empowers developers with robust, framework-agnostic tools and seamless integrations, enabling powerful Web3 actions and AI workflows:
-- **Framework-Agnostic**: Common AI agent primitives compatible with any AI framework.
+LangAI empowers developers with robust tools and seamless integrations, enabling powerful Web3 actions and AI workflows:
 - **Node.js Support**: Full support for Node.js development.
 - **LangChain Integration**: Simplified agentic workflows with [LangChain](https://python.langchain.com/docs/introduction/).
 - **Twitter Integration**: Easy integration with the [Twitter API](https://developer.twitter.com/en/docs/twitter-api) to extend agentic workflows.
