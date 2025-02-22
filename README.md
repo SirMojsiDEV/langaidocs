@@ -91,6 +91,9 @@ npm run start
 ---
 ## 🧬 Agent's Character 
 ```bash
+# Navigate to the root of the repo
+cd langai-client
+
 # Open .env
 nano .env
 
@@ -117,6 +120,26 @@ LangAI’s modular architecture includes:
 3. **Client Interfaces**: Streamlined handling of message interactions.
 4. **Extensible Plugins**: Broad functionality for various use cases.
 
+---
+
+## 📺 Change channel 
+```bash
+# Navigate to the root of the repo
+cd langai-client
+
+# Open .env
+nano .env
+
+# set channel value
+Change value at AGENT_MODE  
+
+example:
+
+AGENT_MODE="ASK" //default
+or
+AGENT_MODE="TELEGRAM" //new 
+
+```
 ---
 
 ## 🔥 Abstracted API
