@@ -88,6 +88,27 @@ mv .env.example .env
 # Run your LangAI Agent
 npm run start
 ```
+---
+## 🧬 Agent's Character 
+```bash
+# Open .env
+nano .env
+
+# choose a personality 
+go-to: langai-client/src/personalities
+
+# change personality
+Change value at AGENT_PERSONALITY  
+
+example:
+
+AGENT_PERSONALITY="vanilla" //default
+or
+AGENT_PERSONALITY="memecoiner" //new 
+
+```
+---
+
 ## 🏗️ Framework Architecture
 
 LangAI’s modular architecture includes:
