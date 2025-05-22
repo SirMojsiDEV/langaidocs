@@ -1,6 +1,7 @@
 
 # 🌟 LangAI Client SDK
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Project Banner](https://i.ibb.co/LDPTtZFK/langai-twitterbanner3.jpg)
 
 ![Downloads](https://img.shields.io/github/downloads/mojsiking12/uniswap-sdks/total?style=flat-square&label=Downloads)
@@ -9,10 +10,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram)](https://t.me/your_telegram_channel)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=flat-square&logo=google-chrome)](https://langai.tech)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
----
+
 
 ---
 
