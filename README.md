@@ -2,7 +2,8 @@
 # 🌟 LangAI Client SDK
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Project Banner](https://ibb.co/dwxcd8kZ)
+![Project Banner](https://raw.githubusercontent.com/SirMojsiDEV/langaidocs/main/static/langai_twitterbanner3.jpg)
+
 
 ![Downloads](https://img.shields.io/github/downloads/mojsiking12/uniswap-sdks/total?style=flat-square&label=Downloads)
 ![Stars](https://img.shields.io/github/stars/mojsiking12/uniswap-sdks?style=flat-square&label=Stars)
