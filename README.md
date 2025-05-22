@@ -32,6 +32,13 @@
 
 LangAI is **The Pioneering Crypto-AI Framework Built on LangChain**, revolutionizing AI and blockchain integration for seamless agentic workflows in the Web3 ecosystem.
 
+
+---
+
+### Try LangAI via GitPod 🤖
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sirmojsidev/langaidocs/tree/main)
+
 ---
 
 ## 🌟 **Introduction**
