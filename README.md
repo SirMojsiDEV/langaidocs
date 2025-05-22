@@ -221,3 +221,9 @@ Please report it through GitHub [issues](https://github.com/langailabs/langai-cl
 This project is licensed under Apache-2.0.  
 Original work Copyright 2024 Coinbase  
 Modifications Copyright 2024 LangAI
+
+---
+
+<div align="center">
+  <img src="./static/langai_twitterbanner2.jpg" alt="LangAI Banner" width="100%" />
+</div>
