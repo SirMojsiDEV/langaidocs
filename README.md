@@ -189,6 +189,13 @@ LangAI provides unmatched platform compatibility:
 
 ---
 
+## Thanks to all Contributors ❤️
+<a href="https://github.com/sirmojsidev/langaidocs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sirmojsidev/langaidocs" />
+</a>
+
+---
+
 ## 🤝 Contributing
 
 LangAI thrives on community contributions!  
