@@ -185,6 +185,9 @@ LangAI provides unmatched platform compatibility:
 - Adapts seamlessly to developer workflows across decentralized networks.
 
 ---
+![Alt](https://repobeats.axiom.co/api/embed/7925121b06223d156985ab5bbccf7a1d4783aeb9.svg "Repobeats analytics image")
+
+---
 
 ## 🤝 Contributing
 
