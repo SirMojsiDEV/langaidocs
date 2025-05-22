@@ -1,7 +1,20 @@
 
 # 🌟 LangAI Client SDK
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+<div align="center">
+  
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Farcaster-5A45FF?style=for-the-badge&logo=farcaster&logoColor=white" />
+
+
+</div>
+
+<!-- Banner -->
+
 <div align="center">
   <img src="./static/langai_twitterbanner3.jpg" alt="LangAI Banner" width="100%" />
 </div>
