@@ -3,7 +3,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 <div align="center">
-  <img src="./static/img/langai_twitterbanner3.jpg" alt="LangAI Banner" width="100%" />
+  <img src="./static/langai_twitterbanner3.jpg" alt="LangAI Banner" width="100%" />
 </div>
 
 ![Downloads](https://img.shields.io/github/downloads/mojsiking12/uniswap-sdks/total?style=flat-square&label=Downloads)
