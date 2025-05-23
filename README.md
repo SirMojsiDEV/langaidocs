@@ -204,45 +204,6 @@ The LangAI Client abstracts all interactions to our LangAI API:
 - Helps developers focus on building agents rather than worrying about Web3 infrastructure.  
 - API handles calls from the Client to ensure data correctness.
 
-```mermaid
-flowchart LR
-  %% Define subgraphs
-  subgraph Developer
-    A[Your LangAI Agent]
-  end
-
-  subgraph "LangAI Client SDK"
-    B[LangAI Client]
-  end
-
-  subgraph "LangAI API"
-    C[REST/gRPC Endpoints]
-    D{Validation & Routing}
-    E[Market Data & Analytics]
-    F[DeFi Operations]
-    G[NFTs & Tokens]
-    H[Wallet & Infrastructure]
-  end
-
-  subgraph "Blockchain & Services"
-    I[On-Chain Networks]
-    J[Oracles & Indexers]
-  end
-
-  %% Flows
-  A --> B
-  B -->|API Calls| C
-  C --> D
-  D --> E
-  D --> F
-  D --> G
-  D --> H
-  E -->|Feeds| J
-  F -->|Txns| I
-  G -->|Deploy/Mint| I
-  H -->|Wallet Ops| I
-
-```
 
 ## ⚙️ Development Experience
 
