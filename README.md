@@ -78,11 +78,6 @@ With LangAI, developers can:
         <img src="https://img.shields.io/badge/👁️_Vision-007ACC?style=for-the-badge" alt="Vision" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/👁️_Vision-007ACC?style=for-the-badge" alt="Vision" />
-      </td>
-
-
-      <td align="center">
         <img src="https://img.shields.io/badge/🤝_Mission-00C853?style=for-the-badge" alt="Mission" />
       </td>
     </tr>
