@@ -60,29 +60,29 @@ Revolutionize AI agent development by incorporating Web3 capabilities, enabling 
 
 ### Mission:
 Bridge the gap between AI and blockchain to create intelligent, self-sustaining AI agents that autonomously interact within decentralized networks.
-
 ---
 
-## ✨ Key Features
+## 🔑 Features
 
-LangAI empowers developers with robust tools and seamless integrations, enabling powerful Web3 actions and AI workflows:
-- **Node.js Support**: Full support for Node.js development.
-- **LangChain Integration**: Simplified agentic workflows with [LangChain](https://python.langchain.com/docs/introduction/).
-- **Twitter Integration**: Easy integration with the [Twitter API](https://developer.twitter.com/en/docs/twitter-api) to extend agentic workflows.
-- **Blockchain & Onchain Actions**:
-  - 🔀 **Swap Tokens**: Transfer and trade tokens.
-  - 🏷️ **Fetching prices**: Fetch prices of coins.
-  - 🚰 **Faucet for Testnet Funds**: Access testnet funds easily.
-  - 💼 **Wallet Management**: Fetch wallet details and balances.
-  - 💸 **Token Transactions**: Transfer tokens.
-  - 🖊️ **Basename Registration**: Register [Basenames](https://www.base.org/names).
-  - 🪙 **Token Deployment**:
-    - Deploy [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) tokens.
-    - Deploy [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens and mint NFTs.
+<div align="center">
 
-  - 🔄 **ETH-WETH Wrapping**: Wrap ETH to WETH on Base.
+| **Market Data & Analytics** 📊                     | **DeFi Operations** 🏦                        | **NFT & Digital Assets** 🎨               |
+|:-------------------------------------------------:|:---------------------------------------------:|:-----------------------------------------:|
+| - **Allora**: Price **predictions** & insights    | - **Compound**: Supply / Borrow / Repay       | - **ERC721**: Mint / Transfer / Balances |
+| - **DeFiLlama**: Protocol & price tracking        | - **Moonwell**: Mint & Redeem                | - **OpenSea**: Listings & Portfolio      |
+| - **Alchemy**: Symbol & contract lookups          | - **Morpho**: Deposit & Withdrawal           | - **CDP NFT**: Deploy NFT contracts      |
+| - **Pyth**: Real-time on-chain feeds              | - **WETH**: Wrap / Unwrap ETH                |                                           |
+|                                                   | - **WOW**: Create / Buy / Sell tokens        |                                           |
 
----
+| **Token Management** 🎟️                           | **Wallet & Infrastructure** 🔧               |
+|:-------------------------------------------------:|:---------------------------------------------:|
+| - **ERC20**: Transfers & balances                 | - **Wallet**: Native transfers & details     |
+| - **CDP Token**: Deploy ERC-20 contracts          | - **CDP API**: Reputation & faucet access    |
+| - **Basename**: Register token names on Base      | - **CDP Wallet**: Contract deploy & trading  |
+| - **Swap Tokens**: Trade assets across DEXs       | - **CDP Deploy**: Universal contract tools   |
+
+</div>
+</div>
 
 ## 🛠️ Prerequisites
 
@@ -164,16 +164,51 @@ or
 AGENT_MODE="TELEGRAM" //new 
 
 ```
----
-
 ## 🔥 Abstracted API
 
-The LangAI Client abstracts all interactions to our LangAI API:
-- helps developers focus on building agents rather than worrying about Web3 infrastructure.
+The LangAI Client abstracts all interactions to our LangAI API:  
+- Helps developers focus on building agents rather than worrying about Web3 infrastructure.  
 - API handles calls from the Client to ensure data correctness.
 
+```mermaid
+flowchart LR
+  %% Define subgraphs
+  subgraph Developer
+    A[Your LangAI Agent]
+  end
 
----
+  subgraph "LangAI Client SDK"
+    B[LangAI Client]
+  end
+
+  subgraph "LangAI API"
+    C[REST/gRPC Endpoints]
+    D{Validation & Routing}
+    E[Market Data & Analytics]
+    F[DeFi Operations]
+    G[NFTs & Tokens]
+    H[Wallet & Infrastructure]
+  end
+
+  subgraph "Blockchain & Services"
+    I[On-Chain Networks]
+    J[Oracles & Indexers]
+  end
+
+  %% Flows
+  A --> B
+  B -->|API Calls| C
+  C --> D
+  D --> E
+  D --> F
+  D --> G
+  D --> H
+  E -->|Feeds| J
+  F -->|Txns| I
+  G -->|Deploy/Mint| I
+  H -->|Wallet Ops| I
+
+```
 
 ## ⚙️ Development Experience
 
@@ -188,10 +223,29 @@ LangAI offers an intuitive environment that:
 
 LangAI provides unmatched platform compatibility:
 - Supports **Large Language Models (LLMs)**: Such as GPT.
-- Integrates with popular platforms like Twitter & Telegram.
+- Integrates with popular platforms like Twitter, Telegram & Farcaster.
 - Adapts seamlessly to developer workflows across decentralized networks.
 
 ---
+
+
+## 📁 Project Structure
+
+```text
+LangAI/
+├─ 📂 src/
+│   ├─ 🤖 agent/           Agent orchestration & flows  
+│   ├─ 🌐 api/             External API handlers  
+│   ├─ 💬 channels/        Telegram, X, & other adapters  
+│   ├─ 🛠️ helpers/         Utility functions  
+│   ├─ 🔗 langchain/       LangChain integrations  
+│   ├─ 🧠 personalities/   Agent “character” configs  
+│   └─ 🔤 types/           TypeScript definitions  
+├─ 🧪 scripts/             Helper scripts (e.g. `genMnemonic.ts`)  
+├─ ⚙️ config.ts            Core config entrypoint  
+├─ 🌱 .env.example         Env-vars template  
+└─ 🚫 .gitignore / .prettierignore
+```
 ## Thanks to all Contributors ❤️
 
 ![Alt](https://repobeats.axiom.co/api/embed/7925121b06223d156985ab5bbccf7a1d4783aeb9.svg "Repobeats analytics image")
