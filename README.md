@@ -19,11 +19,29 @@
   <img src="./static/langai_twitterbanner3.jpg" alt="LangAI Banner" width="100%" />
 </div>
 
-![Downloads](https://img.shields.io/github/downloads/mojsiking12/uniswap-sdks/total?style=flat-square&label=Downloads)
-![Stars](https://img.shields.io/github/stars/mojsiking12/uniswap-sdks?style=flat-square&label=Stars)
-![Open Issues](https://img.shields.io/github/issues/mojsiking12/uniswap-sdks?style=flat-square&label=Open%20Issues)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram)](https://t.me/your_telegram_channel)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=flat-square&logo=google-chrome)](https://langai.tech)
+<div align="center">
+  <!-- Repo stats row -->
+  <p>
+    <img src="https://img.shields.io/github/downloads/SirMojsiDEV/langaidocs/total?style=flat-square&label=Downloads" alt="Downloads" />
+    <img src="https://img.shields.io/github/stars/SirMojsiDEV/langaidocs?style=flat-square&label=Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/issues/SirMojsiDEV/langaidocs?style=flat-square&label=Open%20Issues" alt="Open Issues" />
+    <a href="https://github.com/langailabs">
+      <img src="https://img.shields.io/badge/Organisation-langailabs-181717?style=flat-square&logo=github&logoColor=white" alt="Organisation langailabs" />
+    </a>
+  </p>
+  <!-- Community & site row -->
+  <p>
+    <a href="https://t.me/your_telegram_channel">
+      <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+    <a href="https://x.com/langai">
+      <img src="https://img.shields.io/badge/LangAI-000000?style=flat-square&logo=x&logoColor=white" alt="X langai" />
+    </a>
+    <a href="https://langai.tech">
+      <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=flat-square&logo=google-chrome" alt="Website" />
+    </a>
+  </p>
+</div>
 
 
 
@@ -34,6 +52,7 @@ LangAI is **The Pioneering Crypto-AI Framework Built on LangChain**, revolutioni
 
 
 ---
+
 
 ### Try LangAI via GitPod 🤖
 
@@ -52,13 +71,17 @@ With LangAI, developers can:
 
 ---
 
-
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/👁️_Vision-007ACC?style=for-the-badge" alt="Vision" />
       </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👁️_Vision-007ACC?style=for-the-badge" alt="Vision" />
+      </td>
+
+
       <td align="center">
         <img src="https://img.shields.io/badge/🤝_Mission-00C853?style=for-the-badge" alt="Mission" />
       </td>
