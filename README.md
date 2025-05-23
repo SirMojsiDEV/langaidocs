@@ -204,6 +204,14 @@ The LangAI Client abstracts all interactions to our LangAI API:
 - Helps developers focus on building agents rather than worrying about Web3 infrastructure.  
 - API handles calls from the Client to ensure data correctness.
 
+<div align="center">
+  <picture>
+    <!-- Image for dark mode -->
+    <source srcset="./static/LangAI_structure_dark_diagram.png" media="(prefers-color-scheme: dark)">
+    <!-- Image for light mode (or fallback) -->
+    <img src="./static/LangAI_structure_diagram.png" alt="LangAI Structure" width="100%" />
+  </picture>
+</div>
 
 ## ⚙️ Development Experience
 
