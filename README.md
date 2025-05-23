@@ -53,14 +53,30 @@ With LangAI, developers can:
 ---
 
 
-## 👁️ Vision & 🤝 Mission
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👁️_Vision-007ACC?style=for-the-badge" alt="Vision" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤝_Mission-00C853?style=for-the-badge" alt="Mission" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="45%">
+        <p><strong>Revolutionize AI-agent development</strong> by seamlessly integrating Web3 to empower developers in building autonomous, blockchain-enabled AI systems that ignite innovation across decentralized ecosystems.</p>
+      </td>
+      <td align="left" width="45%">
+        <p><strong>Bridge AI & blockchain</strong> by delivering self-sustaining AI agents that autonomously interact within decentralized networks—unlocking powerful, trustless workflows for tomorrow’s Web3 applications.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Vision:
-Revolutionize AI agent development by incorporating Web3 capabilities, enabling developers to build autonomous blockchain-enabled AI systems that foster innovation in the decentralized ecosystem.
-
-### Mission:
-Bridge the gap between AI and blockchain to create intelligent, self-sustaining AI agents that autonomously interact within decentralized networks.
 ---
+
+
 
 ## 🔑 Features
 
@@ -232,7 +248,7 @@ LangAI provides unmatched platform compatibility:
 ## 📁 Project Structure
 
 ```text
-LangAI/
+langai-client/
 ├─ 📂 src/
 │   ├─ 🤖 agent/           Agent orchestration & flows  
 │   ├─ 🌐 api/             External API handlers  
